@@ -15,4 +15,4 @@ if temperaturas:
 else:
     print("Nenhuma temperatura válida foi informada.")
 
-
+# Teste de execução.
